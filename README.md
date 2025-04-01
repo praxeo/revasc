@@ -6,7 +6,7 @@ Coronary Revascularization Need in the Emergency Department**.
 It provides code to reproduce the model training described in the paper, 
 as well as to utilize the trained model weights for prediction and fine-tuning.
 
-<img src='./ga.png' width=80%/>
+<img src='./ga.png' width=100%/>
 
 If you use this work, please cite the corresponding article listed in the Reference section below.
 
@@ -57,4 +57,19 @@ consequences arising from the use of this software.
 
 ### Reference
 
-TBA
+If you use this repository, please cite:
+
+```
+@article{10.1093/eurheartj/ehaf254,
+    author = {Büscher, Antonius and Plagwitz, Lucas and Yildirim, Kemal and Brix, Tobias J and Neuhaus, Philipp and Bickmann, Lucas and Menke, Amélie F and van Almsick, Vincent F and Pavenstädt, Hermann and Kümpers, Philipp and Heider, Dominik and Varghese, Julian and Eckardt, Lars},
+    title = {Deep Learning Electrocardiogram Model for Risk Stratification of Coronary Revascularization Need in the Emergency Department},
+    journal = {European Heart Journal},
+    pages = {ehaf254},
+    year = {2025},
+    month = {03},
+    issn = {0195-668X},
+    doi = {10.1093/eurheartj/ehaf254},
+    url = {https://doi.org/10.1093/eurheartj/ehaf254},
+    eprint = {https://academic.oup.com/eurheartj/advance-article-pdf/doi/10.1093/eurheartj/ehaf254/62788722/ehaf254.pdf},
+}
+```
